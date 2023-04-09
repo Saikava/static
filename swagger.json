@@ -1,7 +1,8 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "OData Service for Optiways Routes",
+    "title": "OData Service for namespace Default",
+    "description": "This OData service is located at http://localhost:5281/",
     "version": "1.0.0",
     "x-ms-generated-by": {
       "toolName": "Microsoft.OpenApi.OData",
