@@ -1,9 +1,6 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "{
-  "openapi": "3.0.1",
-  "info": {
     "title": "OData Service for namespace Default",
     "version": "1.0.0",
     "x-ms-generated-by": {
