@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title><![CDATA[All My Job Feed (all saved searches combined) jobs | upwork.com]]></title><link><![CDATA[https://www.upwork.com/ab/feed/topics/rss?orgUid=1149567188077953025&amp;securityToken=57f1dc4ed3151de2c543a0f8ae002ae97b8d197a0b360d0531ae0bcbdcce0db33c1f1cebd432234f0fb7eef90cc9aec0fa3d4dde3c49b3da24aaa727d4ff410d&amp;userUid=1149567188073758720]]></link><description><![CDATA[All My Job Feed (all saved searches combined) jobs as of May 17, 2023 06:18 UTC]]></description><language>en-us</language><pubDate>Wed, 17 May 2023 06:18:41 +0000</pubDate><copyright>© 2003-2023 Upwork Corporation</copyright><docs>http://blogs.law.harvard.edu/tech/rss</docs><generator>Upwork Corporation</generator><managingEditor>rss@upwork.com (Upwork Corporation)</managingEditor><image><url>https://www.upwork.com/images/rss_logo.png</url><title><![CDATA[All My Job Feed (all saved searches combined) jobs | upwork.com]]></title><link><![CDATA[https://www.upwork.com/ab/feed/topics/rss?orgUid=1149567188077953025&amp;securityToken=57f1dc4ed3151de2c543a0f8ae002ae97b8d197a0b360d0531ae0bcbdcce0db33c1f1cebd432234f0fb7eef90cc9aec0fa3d4dde3c49b3da24aaa727d4ff410d&amp;userUid=1149567188073758720]]></link></image><item><title><![CDATA[AWS &amp; Windows Server Expert - Upwork]]></title><link>https://www.upwork.com/jobs/AWS-amp-Windows-Server-Expert_%7E014366f4aa6f1fedc8?source=rss</link><description><![CDATA[Hi, <br /><br />
+We have 2 issues with our in-house ticketing system connecting to AWS<br /><br />
+1.	SSL / http issue after whitelisting the IP Addresses. When going to the URL of the site, it show&rsquo;s site is not secure, we need to give the site a valid SSL certificate<br /><br />
+2.	After whitelisting the IP Address from AWS in our firewall, we still cannot see the website<br /><br />
+The setup we have is a bespoke in-house made software application that runs our ticketing system. Our ticketing system is creating in .NET Core which has an SQL Database with it. This is hosted on premise on our own internal servers.<br /><br />
+We have also created 3 customer portals so customers can see their live ticket data, but this is hosted in AWS (cloud). <br /><br />
+We have managed to get 2 customer portals to work. Both have SSL certificate issues. The third portal doesn&rsquo;t work &ndash; we are getting a bad gateway error. It seems like we have configured it the same way in AWS and our Firewall (but we are not 100% confident). <br /><br />
+The systems / platforms we use are: <br /><br />
+&bull;	Windows Server<br />
+&bull;	AWS<br />
+&bull;	SQL<br />
+&bull;	Unifi Firewall<br /><br /><br />
+Thank you<br /><br />
+Hardeep<br /><br /><b>Hourly Range</b>: $40.00-$75.00
+
+<br /><b>Posted On</b>: May 17, 2023 06:01 UTC<br /><b>Category</b>: Systems Administration<br /><b>Skills</b>:Microsoft Windows,     System Administration,     Windows Server,     Network Administration,     Amazon EC2,     Amazon Web Services,     Microsoft IIS,     Windows Administration,     Network Security    
+<br /><b>Country</b>: United Kingdom
+<br /><a href="https://www.upwork.com/jobs/AWS-amp-Windows-Server-Expert_%7E014366f4aa6f1fedc8?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Hi, <br /><br />
+We have 2 issues with our in-house ticketing system connecting to AWS<br /><br />
+1.	SSL / http issue after whitelisting the IP Addresses. When going to the URL of the site, it show&rsquo;s site is not secure, we need to give the site a valid SSL certificate<br /><br />
+2.	After whitelisting the IP Address from AWS in our firewall, we still cannot see the website<br /><br />
+The setup we have is a bespoke in-house made software application that runs our ticketing system. Our ticketing system is creating in .NET Core which has an SQL Database with it. This is hosted on premise on our own internal servers.<br /><br />
+We have also created 3 customer portals so customers can see their live ticket data, but this is hosted in AWS (cloud). <br /><br />
+We have managed to get 2 customer portals to work. Both have SSL certificate issues. The third portal doesn&rsquo;t work &ndash; we are getting a bad gateway error. It seems like we have configured it the same way in AWS and our Firewall (but we are not 100% confident). <br /><br />
+The systems / platforms we use are: <br /><br />
+&bull;	Windows Server<br />
+&bull;	AWS<br />
+&bull;	SQL<br />
+&bull;	Unifi Firewall<br /><br /><br />
+Thank you<br /><br />
+Hardeep<br /><br /><b>Hourly Range</b>: $40.00-$75.00
+
+<br /><b>Posted On</b>: May 17, 2023 06:01 UTC<br /><b>Category</b>: Systems Administration<br /><b>Skills</b>:Microsoft Windows,     System Administration,     Windows Server,     Network Administration,     Amazon EC2,     Amazon Web Services,     Microsoft IIS,     Windows Administration,     Network Security    
+<br /><b>Country</b>: United Kingdom
+<br /><a href="https://www.upwork.com/jobs/AWS-amp-Windows-Server-Expert_%7E014366f4aa6f1fedc8?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 06:01:24 +0000</pubDate><guid>https://www.upwork.com/jobs/AWS-amp-Windows-Server-Expert_%7E014366f4aa6f1fedc8?source=rss</guid></item><item><title><![CDATA[Full time Asp.net MVC Developer  (2 years of Exp) - Upwork]]></title><link>https://www.upwork.com/jobs/Full-time-Asp-net-MVC-Developer-years-Exp_%7E01fb2ae26a25b22530?source=rss</link><description><![CDATA[We are looking for full time Asp.net MVC developer who has worked and has expertise with angular js. <br />
+This is full time position and need to start immediately<br />
+ Should have worked on angular js<br />
+Before applying please read the description carefully. I have mentioned Monthly budget Too. So apply accordingly. <br /><br /><b>Budget</b>: $400
+<br /><b>Posted On</b>: May 17, 2023 05:39 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:AngularJS,     ASP.NET MVC,     ASP.NET    
+<br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/Full-time-Asp-net-MVC-Developer-years-Exp_%7E01fb2ae26a25b22530?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are looking for full time Asp.net MVC developer who has worked and has expertise with angular js. <br />
+This is full time position and need to start immediately<br />
+ Should have worked on angular js<br />
+Before applying please read the description carefully. I have mentioned Monthly budget Too. So apply accordingly. <br /><br /><b>Budget</b>: $400
+<br /><b>Posted On</b>: May 17, 2023 05:39 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:AngularJS,     ASP.NET MVC,     ASP.NET    
+<br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/Full-time-Asp-net-MVC-Developer-years-Exp_%7E01fb2ae26a25b22530?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 05:39:43 +0000</pubDate><guid>https://www.upwork.com/jobs/Full-time-Asp-net-MVC-Developer-years-Exp_%7E01fb2ae26a25b22530?source=rss</guid></item><item><title><![CDATA[Simple Web Scraper with Complex Captcha - Upwork]]></title><link>https://www.upwork.com/jobs/Simple-Web-Scraper-with-Complex-Captcha_%7E01f42bc2307919a6c5?source=rss</link><description><![CDATA[There is a website. You go to a link on that site. It takes you to a webpage with the captcha. Image attached.<br /><br />
+All we need to do is solve the captcha<br /><br />
+After you solve it, it shows a code. I just need to get as many of those codes as possible.<br /><br />
+We can refresh the page to restart the process.<br /><br />
+To solve the captcha, one method i am thinking is, you start at the car, then you find where the color is, and go in a straight line until it ends. We would have to code a maze solver. <br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2023 05:28 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Data Scraping,     Python,     Web Crawling,     JavaScript    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Simple-Web-Scraper-with-Complex-Captcha_%7E01f42bc2307919a6c5?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[There is a website. You go to a link on that site. It takes you to a webpage with the captcha. Image attached.<br /><br />
+All we need to do is solve the captcha<br /><br />
+After you solve it, it shows a code. I just need to get as many of those codes as possible.<br /><br />
+We can refresh the page to restart the process.<br /><br />
+To solve the captcha, one method i am thinking is, you start at the car, then you find where the color is, and go in a straight line until it ends. We would have to code a maze solver. <br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2023 05:28 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Data Scraping,     Python,     Web Crawling,     JavaScript    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Simple-Web-Scraper-with-Complex-Captcha_%7E01f42bc2307919a6c5?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 05:28:40 +0000</pubDate><guid>https://www.upwork.com/jobs/Simple-Web-Scraper-with-Complex-Captcha_%7E01f42bc2307919a6c5?source=rss</guid></item><item><title><![CDATA[Python Scripter  - Upwork]]></title><link>https://www.upwork.com/jobs/Python-Scripter_%7E010a3b235679399e0d?source=rss</link><description><![CDATA[I&#039;m looking for someone who knows Python and power shell. <br /><br />
+I have a couple of tasks that I need to be done. I have two power shell scripts that I need to be converted to Python. In addition, I need them to be a bit modified. I won&#039;t be able to provide codes but I can provide video of the code and how the program works. <br /><br />
+In addition, I have a couple of other projects as well that I need some assistance on. This has the potential for a long-term hire. I&#039;ll be working with this individual on a weekly-monthly basis. <br /><br />
+If interested, <br />
+Describe your Python and Power shell skills. <br /><br /><b>Budget</b>: $150
+<br /><b>Posted On</b>: May 17, 2023 05:21 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Microsoft Windows Powershell,     Python,     Data Scraping,     Data Mining,     Python Script,     API,     Automation    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Python-Scripter_%7E010a3b235679399e0d?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[I&#039;m looking for someone who knows Python and power shell. <br /><br />
+I have a couple of tasks that I need to be done. I have two power shell scripts that I need to be converted to Python. In addition, I need them to be a bit modified. I won&#039;t be able to provide codes but I can provide video of the code and how the program works. <br /><br />
+In addition, I have a couple of other projects as well that I need some assistance on. This has the potential for a long-term hire. I&#039;ll be working with this individual on a weekly-monthly basis. <br /><br />
+If interested, <br />
+Describe your Python and Power shell skills. <br /><br /><b>Budget</b>: $150
+<br /><b>Posted On</b>: May 17, 2023 05:21 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Microsoft Windows Powershell,     Python,     Data Scraping,     Data Mining,     Python Script,     API,     Automation    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Python-Scripter_%7E010a3b235679399e0d?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 05:21:46 +0000</pubDate><guid>https://www.upwork.com/jobs/Python-Scripter_%7E010a3b235679399e0d?source=rss</guid></item><item><title><![CDATA[Unity Developer (AR) (iOS) - Upwork]]></title><link>https://www.upwork.com/jobs/Unity-Developer-iOS_%7E01cd04e695d10f0cf0?source=rss</link><description><![CDATA[We&#039;re looking to bring on a Unity Developer who is strong in C# and has experience working on Augmented Reality Mobile Apps (iOS) <br /><br />
+(NO AGENCYS) <br /><br />
+MUST HAVE:<br />
+3-5 Years of experience <br />
+Experience taking a designers Designs and implementing them to be clean and smooth <br />
+Experience working on iOS AR Unity based applications <br />
+Strong C# experience <br />
+Strong Unity Experience <br />
+Strong Augmented Reality Experience <br />
+Strong AR Core Experience <br /><br />
+NICE TO HAVE:<br />
+Built and shipped AR iOS Application<br />
+Experience working with Niantic Lightship <br /><br />
+Experience building clean in-app animations <br /><br />
+This contract can expand to full-time salaried and equity work. If you love AR and want to work on a really cool AR stealth project hit us up! <br /><br /><b>Budget</b>: $1,450
+<br /><b>Posted On</b>: May 17, 2023 04:39 UTC<br /><b>Category</b>: AR/VR Development<br /><b>Skills</b>:Google Maps    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Unity-Developer-iOS_%7E01cd04e695d10f0cf0?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We&#039;re looking to bring on a Unity Developer who is strong in C# and has experience working on Augmented Reality Mobile Apps (iOS) <br /><br />
+(NO AGENCYS) <br /><br />
+MUST HAVE:<br />
+3-5 Years of experience <br />
+Experience taking a designers Designs and implementing them to be clean and smooth <br />
+Experience working on iOS AR Unity based applications <br />
+Strong C# experience <br />
+Strong Unity Experience <br />
+Strong Augmented Reality Experience <br />
+Strong AR Core Experience <br /><br />
+NICE TO HAVE:<br />
+Built and shipped AR iOS Application<br />
+Experience working with Niantic Lightship <br /><br />
+Experience building clean in-app animations <br /><br />
+This contract can expand to full-time salaried and equity work. If you love AR and want to work on a really cool AR stealth project hit us up! <br /><br /><b>Budget</b>: $1,450
+<br /><b>Posted On</b>: May 17, 2023 04:39 UTC<br /><b>Category</b>: AR/VR Development<br /><b>Skills</b>:Google Maps    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Unity-Developer-iOS_%7E01cd04e695d10f0cf0?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 04:39:46 +0000</pubDate><guid>https://www.upwork.com/jobs/Unity-Developer-iOS_%7E01cd04e695d10f0cf0?source=rss</guid></item><item><title><![CDATA[Automation in make.com - Upwork]]></title><link>https://www.upwork.com/jobs/Automation-make-com_%7E013774334f046b1218?source=rss</link><description><![CDATA[Hi, i need a make.com automation from Hubspot to Airtable.<br /><br />
+I want to transfer the details of a Deal to a table in Airtable<br /><br /><b>Hourly Range</b>: $15.00-$35.00
+
+<br /><b>Posted On</b>: May 17, 2023 04:18 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:API Integration,     Automation    
+<br /><b>Country</b>: Austria
+<br /><a href="https://www.upwork.com/jobs/Automation-make-com_%7E013774334f046b1218?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Hi, i need a make.com automation from Hubspot to Airtable.<br /><br />
+I want to transfer the details of a Deal to a table in Airtable<br /><br /><b>Hourly Range</b>: $15.00-$35.00
+
+<br /><b>Posted On</b>: May 17, 2023 04:18 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:API Integration,     Automation    
+<br /><b>Country</b>: Austria
+<br /><a href="https://www.upwork.com/jobs/Automation-make-com_%7E013774334f046b1218?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 04:18:08 +0000</pubDate><guid>https://www.upwork.com/jobs/Automation-make-com_%7E013774334f046b1218?source=rss</guid></item><item><title><![CDATA[Developers for API SDK/Client Libraries - Upwork]]></title><link>https://www.upwork.com/jobs/Developers-for-API-SDK-Client-Libraries_%7E016086e70ae9647ef6?source=rss</link><description><![CDATA[Telzio, a leading provider of cloud-based communication solutions, is looking for one or more talented and experienced freelance developers to create and maintain SDKs for our API, covering all popular programming languages. Each developer will be the main contributor to a public GitHub repository and will be responsible for the ongoing maintenance and development of the SDK, as well as responding to Issues and reviewing PRs submitted by Telzio&#039;s users.<br /><br />
+**Responsibilities:**<br /><br />
+- Design, develop, and maintain SDKs/API Client Libraries for Telzio&#039;s API in your language of expertise<br />
+- Create full documentation and provide comprehensive examples for using the SDK in its respective language/framework<br />
+- Respond to Issues and review PRs submitted by users<br />
+- Develop and maintain Webhook handlers<br />
+- Collaborate with the Telzio team to ensure the SDK meets the requirements and stays up-to-date with API changes<br />
+- Communicate effectively with our team on Slack and participate in at least one SDK developer meeting per month<br /><br />
+**Required Skills and Experience:**<br /><br />
+- Proven experience in creating SDKs/API Client Libraries<br />
+- Strong programming skills in one of the following languages: C#/.net, Node.js, Ruby, Python, or GO<br />
+- Familiarity with OpenAPI 3.0 specs (please note, we do not want an autogenerated SDK)<br />
+- Experience working with public repositories on GitHub<br />
+- Experience with Webhooks<br />
+- Exceptional documentation and communication skills<br /><br />
+We&#039;re looking for developers who are really good at their chosen language and can form an ongoing relationship with our team. If you have the required skills and experience and are passionate about creating high-quality SDKs for developers, we&#039;d love to hear from you. <br /><br />
+**To apply, please submit the following:**<br /><br />
+- Your proposal, including your relevant experience, portfolio, and hourly rate<br />
+- A link to your GitHub account<br />
+- Links to at least one repository containing an SDK you&#039;ve created<br /><br />
+Thank you for considering this opportunity with Telzio, and we look forward to working with you!<br /><br /><b>Hourly Range</b>: $25.00-$49.00
+
+<br /><b>Posted On</b>: May 17, 2023 04:04 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Git,     API,     API Integration,     API Documentation    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Developers-for-API-SDK-Client-Libraries_%7E016086e70ae9647ef6?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Telzio, a leading provider of cloud-based communication solutions, is looking for one or more talented and experienced freelance developers to create and maintain SDKs for our API, covering all popular programming languages. Each developer will be the main contributor to a public GitHub repository and will be responsible for the ongoing maintenance and development of the SDK, as well as responding to Issues and reviewing PRs submitted by Telzio&#039;s users.<br /><br />
+**Responsibilities:**<br /><br />
+- Design, develop, and maintain SDKs/API Client Libraries for Telzio&#039;s API in your language of expertise<br />
+- Create full documentation and provide comprehensive examples for using the SDK in its respective language/framework<br />
+- Respond to Issues and review PRs submitted by users<br />
+- Develop and maintain Webhook handlers<br />
+- Collaborate with the Telzio team to ensure the SDK meets the requirements and stays up-to-date with API changes<br />
+- Communicate effectively with our team on Slack and participate in at least one SDK developer meeting per month<br /><br />
+**Required Skills and Experience:**<br /><br />
+- Proven experience in creating SDKs/API Client Libraries<br />
+- Strong programming skills in one of the following languages: C#/.net, Node.js, Ruby, Python, or GO<br />
+- Familiarity with OpenAPI 3.0 specs (please note, we do not want an autogenerated SDK)<br />
+- Experience working with public repositories on GitHub<br />
+- Experience with Webhooks<br />
+- Exceptional documentation and communication skills<br /><br />
+We&#039;re looking for developers who are really good at their chosen language and can form an ongoing relationship with our team. If you have the required skills and experience and are passionate about creating high-quality SDKs for developers, we&#039;d love to hear from you. <br /><br />
+**To apply, please submit the following:**<br /><br />
+- Your proposal, including your relevant experience, portfolio, and hourly rate<br />
+- A link to your GitHub account<br />
+- Links to at least one repository containing an SDK you&#039;ve created<br /><br />
+Thank you for considering this opportunity with Telzio, and we look forward to working with you!<br /><br /><b>Hourly Range</b>: $25.00-$49.00
+
+<br /><b>Posted On</b>: May 17, 2023 04:04 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Git,     API,     API Integration,     API Documentation    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Developers-for-API-SDK-Client-Libraries_%7E016086e70ae9647ef6?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 04:04:35 +0000</pubDate><guid>https://www.upwork.com/jobs/Developers-for-API-SDK-Client-Libraries_%7E016086e70ae9647ef6?source=rss</guid></item><item><title><![CDATA[C# Programmer Needed for Modifications to Data Mining Program - Upwork]]></title><link>https://www.upwork.com/jobs/Programmer-Needed-for-Modifications-Data-Mining-Program_%7E0151d91f8544003ae0?source=rss</link><description><![CDATA[I had a freelancer from Upwork design and create a data mining program for me which has needed minor adjustments along they way as websites change.&nbsp;&nbsp;It is not a script or a website that scrapes but an entire exe program.&nbsp;&nbsp;It has needed an update to become useful again but he has been MIA for at least three months now.&nbsp;&nbsp;Need the program to be edited so it is now compatible with the website from which it scrapes.&nbsp;&nbsp;Looking for someone who has designed data mining programs in the past using C# language.&nbsp;&nbsp;Must be sharp and have excellent English reading and comprehension.&nbsp;&nbsp;This contract is only payable upon completion. Others have tried and failed and have only wasted both of our time.&nbsp;&nbsp;Only accept this job of you are certain you can repair and maintain this program. I can send you the program first so your May review It.<br /><br /><b>Budget</b>: $600
+<br /><b>Posted On</b>: May 17, 2023 04:03 UTC<br /><b>Category</b>: Desktop Software Development<br /><b>Skills</b>:Data Mining,     Data Scraping,     Data Cleansing,     SQL Programming,     C#,     Desktop Application    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Programmer-Needed-for-Modifications-Data-Mining-Program_%7E0151d91f8544003ae0?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[I had a freelancer from Upwork design and create a data mining program for me which has needed minor adjustments along they way as websites change.&nbsp;&nbsp;It is not a script or a website that scrapes but an entire exe program.&nbsp;&nbsp;It has needed an update to become useful again but he has been MIA for at least three months now.&nbsp;&nbsp;Need the program to be edited so it is now compatible with the website from which it scrapes.&nbsp;&nbsp;Looking for someone who has designed data mining programs in the past using C# language.&nbsp;&nbsp;Must be sharp and have excellent English reading and comprehension.&nbsp;&nbsp;This contract is only payable upon completion. Others have tried and failed and have only wasted both of our time.&nbsp;&nbsp;Only accept this job of you are certain you can repair and maintain this program. I can send you the program first so your May review It.<br /><br /><b>Budget</b>: $600
+<br /><b>Posted On</b>: May 17, 2023 04:03 UTC<br /><b>Category</b>: Desktop Software Development<br /><b>Skills</b>:Data Mining,     Data Scraping,     Data Cleansing,     SQL Programming,     C#,     Desktop Application    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Programmer-Needed-for-Modifications-Data-Mining-Program_%7E0151d91f8544003ae0?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 04:03:36 +0000</pubDate><guid>https://www.upwork.com/jobs/Programmer-Needed-for-Modifications-Data-Mining-Program_%7E0151d91f8544003ae0?source=rss</guid></item><item><title><![CDATA[Seeking someone to give training sessions for Azure, Devops, and containerization for .NET software - Upwork]]></title><link>https://www.upwork.com/jobs/Seeking-someone-give-training-sessions-for-Azure-Devops-and-containerization-for-NET-software_%7E01bc75701164c78aae?source=rss</link><description><![CDATA[I am a .NET developer but I&#039;m looking to learn more about Azure and azure devops configuration and various methods of app deployment, including onto virtual machines, as app services, as serverless functions, and as containers (with Docker and Kubernetes). <br /><br />
+I&#039;d like to find someone who would be able to have a series of lessons with me where we can walk through these different kinds of deployments and talk about some of their trade offs. <br /><br />
+I&#039;m not looking for someone to do work for me - you have to be available to meet with me and give me the right training. You should be an expert with these technologies, have good internet, and speak good English. <br /><br />
+If you&#039;re interested and available let me know your availability to meet.<br /><br /><b>Hourly Range</b>: $36.00-$60.00
+
+<br /><b>Posted On</b>: May 17, 2023 03:15 UTC<br /><b>Category</b>: DevOps Engineering<br /><b>Skills</b>:.NET Framework,     Microsoft Azure,     C#,     DevOps,     Docker    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Seeking-someone-give-training-sessions-for-Azure-Devops-and-containerization-for-NET-software_%7E01bc75701164c78aae?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[I am a .NET developer but I&#039;m looking to learn more about Azure and azure devops configuration and various methods of app deployment, including onto virtual machines, as app services, as serverless functions, and as containers (with Docker and Kubernetes). <br /><br />
+I&#039;d like to find someone who would be able to have a series of lessons with me where we can walk through these different kinds of deployments and talk about some of their trade offs. <br /><br />
+I&#039;m not looking for someone to do work for me - you have to be available to meet with me and give me the right training. You should be an expert with these technologies, have good internet, and speak good English. <br /><br />
+If you&#039;re interested and available let me know your availability to meet.<br /><br /><b>Hourly Range</b>: $36.00-$60.00
+
+<br /><b>Posted On</b>: May 17, 2023 03:15 UTC<br /><b>Category</b>: DevOps Engineering<br /><b>Skills</b>:.NET Framework,     Microsoft Azure,     C#,     DevOps,     Docker    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Seeking-someone-give-training-sessions-for-Azure-Devops-and-containerization-for-NET-software_%7E01bc75701164c78aae?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 03:15:56 +0000</pubDate><guid>https://www.upwork.com/jobs/Seeking-someone-give-training-sessions-for-Azure-Devops-and-containerization-for-NET-software_%7E01bc75701164c78aae?source=rss</guid></item><item><title><![CDATA[set up DOCFX autofiler or similar to find a Document Number and name the Document - Upwork]]></title><link>https://www.upwork.com/jobs/set-DOCFX-autofiler-similar-find-Document-Number-and-name-the-Document_%7E01742c568f252cd652?source=rss</link><description><![CDATA[We want to take all our document processes to the cloud.&nbsp;&nbsp;This will involve scanning supplier invoices and then having&nbsp;&nbsp;digital compare, group, and approval processes to compare the supplier invoices with our purchase orders.&nbsp;&nbsp;these will be managed by humans, very likely, as the main goal is to get them digital.&nbsp;&nbsp;some AI may be useful of course, but mainly looking at grouping and a good platform once they are scanned, and some automation to select the correct folders etc, and permissions based.<br /><br />
+we are a microsoft -centric company with Business Central, and Business Premium licensing, so open to sharepoint.&nbsp;&nbsp;Windows environment.<br /><br />
+However, for the trial project, it is initially smaller to see how we go.&nbsp;&nbsp;see below:<br /><br />
+We want to set up DOXCF autofiler (or similar) to work in with our PRINTERS AND SCANNERS so we can scan hardcopy paper copies of physical documents (signed customer invoices) into a folder, whereby the software will then use OCR to identify an invoice number which is in the same location on each document. the software should then name the file with the document number and file it into another folder.&nbsp;&nbsp;Docfx has been used in the past, successfully, but a similar tool might help us find a document number and name the document. <br />
+The project length will be possibly 1 days work for an expert? <br /><br />
+The ideal candidate will have experience in document scanning, automation, document management systems, and Microsoft SharePoint Designer?<br /><br />
+ The successful candidate will be responsible for setting up and configuring the autofiler or similar tool to meet our specific requirements.<br /><br />
+We are looking for a candidate who can submit a proposal outlining their experience with similar projects, as well as their approach to this specific project. Please include links to past completed projects that demonstrate your expertise in this area.<br /><br />
+We look forward to hearing from qualified candidates and working together to improve our document management process.<br /><br />
+with a possible view to further work<br /><br />
+Exact Job Scop<br /><br />
+1)	Set up our current printers/scanners to scan our paper invoices (With customers signatures) into a folder on our server (on premises, Windows OS)<br />
+2)	Have the software use OCR in a certain location at the top Right position of the page to identify the Invoice Number on each document. <br />
+3)	Rename the File Name to the document number<br />
+4)	Moved Renamed files into a windows folder called &ldquo;Named Invoices&rdquo;<br />
+5)	Any files that it cannot find the number, move the file into a folder called something like &ldquo;Number Unknown&rdquo;<br />
+6)	At this stage we aren&rsquo;t using sharepoint, but happy to consider, as long as our Business Central (Dynamics BC19 on prem) will still be able to perform it&rsquo;s script of picking up the files from &lsquo;named invoices&rsquo; and linking them with the corresponding &lsquo;posted invoice document&rsquo; within BC.<br />
+7)	Further automations may be run as recommended other projects<br />
+Please provide any licensing costs for the software required.&nbsp;&nbsp;We currently already use Microsoft BC and Business Premium.<br /><br /><br /><br /><br /><b>Budget</b>: $500
+<br /><b>Posted On</b>: May 17, 2023 02:21 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Automation,     Microsoft SharePoint Designer,     Document Management System,     Document Scanning,     OCR Software,     OCR Algorithm    
+<br /><b>Country</b>: Australia
+<br /><a href="https://www.upwork.com/jobs/set-DOCFX-autofiler-similar-find-Document-Number-and-name-the-Document_%7E01742c568f252cd652?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We want to take all our document processes to the cloud.&nbsp;&nbsp;This will involve scanning supplier invoices and then having&nbsp;&nbsp;digital compare, group, and approval processes to compare the supplier invoices with our purchase orders.&nbsp;&nbsp;these will be managed by humans, very likely, as the main goal is to get them digital.&nbsp;&nbsp;some AI may be useful of course, but mainly looking at grouping and a good platform once they are scanned, and some automation to select the correct folders etc, and permissions based.<br /><br />
+we are a microsoft -centric company with Business Central, and Business Premium licensing, so open to sharepoint.&nbsp;&nbsp;Windows environment.<br /><br />
+However, for the trial project, it is initially smaller to see how we go.&nbsp;&nbsp;see below:<br /><br />
+We want to set up DOXCF autofiler (or similar) to work in with our PRINTERS AND SCANNERS so we can scan hardcopy paper copies of physical documents (signed customer invoices) into a folder, whereby the software will then use OCR to identify an invoice number which is in the same location on each document. the software should then name the file with the document number and file it into another folder.&nbsp;&nbsp;Docfx has been used in the past, successfully, but a similar tool might help us find a document number and name the document. <br />
+The project length will be possibly 1 days work for an expert? <br /><br />
+The ideal candidate will have experience in document scanning, automation, document management systems, and Microsoft SharePoint Designer?<br /><br />
+ The successful candidate will be responsible for setting up and configuring the autofiler or similar tool to meet our specific requirements.<br /><br />
+We are looking for a candidate who can submit a proposal outlining their experience with similar projects, as well as their approach to this specific project. Please include links to past completed projects that demonstrate your expertise in this area.<br /><br />
+We look forward to hearing from qualified candidates and working together to improve our document management process.<br /><br />
+with a possible view to further work<br /><br />
+Exact Job Scop<br /><br />
+1)	Set up our current printers/scanners to scan our paper invoices (With customers signatures) into a folder on our server (on premises, Windows OS)<br />
+2)	Have the software use OCR in a certain location at the top Right position of the page to identify the Invoice Number on each document. <br />
+3)	Rename the File Name to the document number<br />
+4)	Moved Renamed files into a windows folder called &ldquo;Named Invoices&rdquo;<br />
+5)	Any files that it cannot find the number, move the file into a folder called something like &ldquo;Number Unknown&rdquo;<br />
+6)	At this stage we aren&rsquo;t using sharepoint, but happy to consider, as long as our Business Central (Dynamics BC19 on prem) will still be able to perform it&rsquo;s script of picking up the files from &lsquo;named invoices&rsquo; and linking them with the corresponding &lsquo;posted invoice document&rsquo; within BC.<br />
+7)	Further automations may be run as recommended other projects<br />
+Please provide any licensing costs for the software required.&nbsp;&nbsp;We currently already use Microsoft BC and Business Premium.<br /><br /><br /><br /><br /><b>Budget</b>: $500
+<br /><b>Posted On</b>: May 17, 2023 02:21 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Automation,     Microsoft SharePoint Designer,     Document Management System,     Document Scanning,     OCR Software,     OCR Algorithm    
+<br /><b>Country</b>: Australia
+<br /><a href="https://www.upwork.com/jobs/set-DOCFX-autofiler-similar-find-Document-Number-and-name-the-Document_%7E01742c568f252cd652?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 02:21:23 +0000</pubDate><guid>https://www.upwork.com/jobs/set-DOCFX-autofiler-similar-find-Document-Number-and-name-the-Document_%7E01742c568f252cd652?source=rss</guid></item><item><title><![CDATA[KeyCloak - WinForms Login Help - Upwork]]></title><link>https://www.upwork.com/jobs/KeyCloak-WinForms-Login-Help_%7E0155a9625a4375506c?source=rss</link><description><![CDATA[I am looking for help with a winforms keycloak login project.<br /><br />
+I have a lot of the code done, but cannot get some pieces working. We would be working together to get this finished. <br /><br />
+The goal of the project is to avoid the localhost and use a public webserver.<br /><br />
+I want to log in like snagit.<br /><br />
+Snaggit process. You click on login on the winforms application it takes you to a website and then redirects to a public website that launches <br /><br />
+I have gotten to the point where I can launch the keycloak website through winforms, redirect to a public website after logging in. I get the response on the public website of the code and state and I can pass that through a custom protocol hander to open the application.<br /><br />
+I am getting stuck at the point of getting the token from the code and state that I received after logging in.<br /><br />
+Please help!<br /><br /><b>Budget</b>: $150
+<br /><b>Posted On</b>: May 17, 2023 02:04 UTC<br /><b>Category</b>: Desktop Software Development<br /><b>Skills</b>:C#,     Desktop Application,     Microsoft Windows    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/KeyCloak-WinForms-Login-Help_%7E0155a9625a4375506c?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[I am looking for help with a winforms keycloak login project.<br /><br />
+I have a lot of the code done, but cannot get some pieces working. We would be working together to get this finished. <br /><br />
+The goal of the project is to avoid the localhost and use a public webserver.<br /><br />
+I want to log in like snagit.<br /><br />
+Snaggit process. You click on login on the winforms application it takes you to a website and then redirects to a public website that launches <br /><br />
+I have gotten to the point where I can launch the keycloak website through winforms, redirect to a public website after logging in. I get the response on the public website of the code and state and I can pass that through a custom protocol hander to open the application.<br /><br />
+I am getting stuck at the point of getting the token from the code and state that I received after logging in.<br /><br />
+Please help!<br /><br /><b>Budget</b>: $150
+<br /><b>Posted On</b>: May 17, 2023 02:04 UTC<br /><b>Category</b>: Desktop Software Development<br /><b>Skills</b>:C#,     Desktop Application,     Microsoft Windows    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/KeyCloak-WinForms-Login-Help_%7E0155a9625a4375506c?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 02:04:54 +0000</pubDate><guid>https://www.upwork.com/jobs/KeyCloak-WinForms-Login-Help_%7E0155a9625a4375506c?source=rss</guid></item><item><title><![CDATA[Turn a python automated trading script into mt5 bot - Upwork]]></title><link>https://www.upwork.com/jobs/Turn-python-automated-trading-script-into-mt5-bot_%7E0124e0c5e9a5f23a2f?source=rss</link><description><![CDATA[Hello, I am looking for someone to turn this python script shared in colab, into an mt5 bot with VPS (cloud) support. Here is the link to the current script (written in python and connected to the bybit crypto exchange API): <br />
+https://colab.research.google.com/drive/1e49rkKTATKMq3vKd0P-niFDXP-0ddgc7?usp=sharing#scrollTo=KG3b5s88AUOK <br /><br />
+An additional feature I would need is the ability to choose position sizing as a factor of risk % instead of a flat size. For example if I instruct the program to risk 1% of my portfolio, and my portfolio is currently $100, the program will enter a trade that will lose me $1 if the trade hits stop loss. <br /><br />
+The bot source code has a way that I could control different things in the bot by changing the words in the code. I need to be able to control aspects of the bot as well, like the pair it is working on, or the risk% or i can turn the bot on or off) <br /><br />
+Summary of requirements:<br />
+-Make an mt5 bot out of this python script<br />
+-Give me a method to control different aspects of the bot (like trade pair, risk% and turning bot on/off<br />
+-Give me source code<br />
+-Set up vps from mt5 (mt5 offers vps for $15 a month)<br />
+-make the bot choose position sizing as a matter of risk % (instead of flat sizing as it currently is) <br />
+-give ongoing support for helping me set up the bot, troubleshooting and upgrades (i will pay for upgrades) <br /><br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 17, 2023 01:35 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Forex Trading,     Python,     MQL 5,     Cryptocurrency,     Automation    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Turn-python-automated-trading-script-into-mt5-bot_%7E0124e0c5e9a5f23a2f?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Hello, I am looking for someone to turn this python script shared in colab, into an mt5 bot with VPS (cloud) support. Here is the link to the current script (written in python and connected to the bybit crypto exchange API): <br />
+https://colab.research.google.com/drive/1e49rkKTATKMq3vKd0P-niFDXP-0ddgc7?usp=sharing#scrollTo=KG3b5s88AUOK <br /><br />
+An additional feature I would need is the ability to choose position sizing as a factor of risk % instead of a flat size. For example if I instruct the program to risk 1% of my portfolio, and my portfolio is currently $100, the program will enter a trade that will lose me $1 if the trade hits stop loss. <br /><br />
+The bot source code has a way that I could control different things in the bot by changing the words in the code. I need to be able to control aspects of the bot as well, like the pair it is working on, or the risk% or i can turn the bot on or off) <br /><br />
+Summary of requirements:<br />
+-Make an mt5 bot out of this python script<br />
+-Give me a method to control different aspects of the bot (like trade pair, risk% and turning bot on/off<br />
+-Give me source code<br />
+-Set up vps from mt5 (mt5 offers vps for $15 a month)<br />
+-make the bot choose position sizing as a matter of risk % (instead of flat sizing as it currently is) <br />
+-give ongoing support for helping me set up the bot, troubleshooting and upgrades (i will pay for upgrades) <br /><br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 17, 2023 01:35 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Forex Trading,     Python,     MQL 5,     Cryptocurrency,     Automation    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Turn-python-automated-trading-script-into-mt5-bot_%7E0124e0c5e9a5f23a2f?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 01:35:28 +0000</pubDate><guid>https://www.upwork.com/jobs/Turn-python-automated-trading-script-into-mt5-bot_%7E0124e0c5e9a5f23a2f?source=rss</guid></item><item><title><![CDATA[Bidders Selection Table - Upwork]]></title><link>https://www.upwork.com/jobs/Bidders-Selection-Table_%7E01034d199e045f4d4f?source=rss</link><description><![CDATA[Build an excel tool to use a user templates for receiving supplier offers ; price, technical sheet and automatize calculations to charts. After collecting the offers from the bidders, the user will enter the information into a table with fixed calculation for each type of category I.e. medical, engineering etc. with several different selection criteria.<br /><br />
+The vendor selection form with&nbsp;&nbsp;automatic calculation will provide summary or high level information in another excel tab that shows the final rating of all the bidders e.g. best, the cheapest, the most expensive, supplier.<br /><br /><b>Hourly Range</b>: $33.00-$65.00
+
+<br /><b>Posted On</b>: May 17, 2023 01:05 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Dashboard,     Business with 1000+ Employees,     Data Management,     Business Process Automation,     Microsoft Excel,     Visual Basic for Applications,     Automation    
+<br /><b>Country</b>: Switzerland
+<br /><a href="https://www.upwork.com/jobs/Bidders-Selection-Table_%7E01034d199e045f4d4f?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Build an excel tool to use a user templates for receiving supplier offers ; price, technical sheet and automatize calculations to charts. After collecting the offers from the bidders, the user will enter the information into a table with fixed calculation for each type of category I.e. medical, engineering etc. with several different selection criteria.<br /><br />
+The vendor selection form with&nbsp;&nbsp;automatic calculation will provide summary or high level information in another excel tab that shows the final rating of all the bidders e.g. best, the cheapest, the most expensive, supplier.<br /><br /><b>Hourly Range</b>: $33.00-$65.00
+
+<br /><b>Posted On</b>: May 17, 2023 01:05 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Dashboard,     Business with 1000+ Employees,     Data Management,     Business Process Automation,     Microsoft Excel,     Visual Basic for Applications,     Automation    
+<br /><b>Country</b>: Switzerland
+<br /><a href="https://www.upwork.com/jobs/Bidders-Selection-Table_%7E01034d199e045f4d4f?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Wed, 17 May 2023 01:05:23 +0000</pubDate><guid>https://www.upwork.com/jobs/Bidders-Selection-Table_%7E01034d199e045f4d4f?source=rss</guid></item><item><title><![CDATA[Hiring Ninja WordPress/Full-Stack JavaScript Developer - Upwork]]></title><link>https://www.upwork.com/jobs/Hiring-Ninja-WordPress-Full-Stack-JavaScript-Developer_%7E0126b78ee7cc9e4c44?source=rss</link><description><![CDATA[We are looking for an experienced WordPress/JS Full-Stack Software Developer who is detail oriented, organized, and writes great code. <br /><br />
+Our main marketing website is built on WordPress, and while this is where most of your time will be spent, you will also work across our backend and web-app too.<br /><br />
+-ONLY LOOKING FOR INDIVIDUAL FREELANCERS<br /><br />
+Requirements:<br /><br />
+- WordPress expert.<br />
+- Woocommerce experience.<br />
+- Stripe experience.<br />
+- PHP expert.<br />
+- MongoDB expert.<br />
+- MySQL experience.<br />
+- Javascript experience, with complete understanding of asynchronous functionality.<br />
+- ReactJS experience with proficiency using Hooks.<br />
+- Clear, concise and punctual communicator.<br />
+- Dedicated to meeting project deadlines, getting work done and writing high quality code.<br /><br />
+Bonus Points:<br />
+- Gtags (Google Tags) experience.<br />
+- Pixels: Facebook/Tiktok etc.<br />
+- Brightcove experience.<br /><br />
+You will use:<br />
+-Slack for communication, Clickup for Task Management, Zapier and more.<br /><br />
+If you read the job post, and you have the requirements needed for this position type &ldquo;I am the right developer for this&rdquo; in your proposal.<br /><br /><b>Hourly Range</b>: $30.00-$50.00
+
+<br /><b>Posted On</b>: May 16, 2023 23:48 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:JavaScript,     WordPress,     PHP,     WooCommerce,     Stripe    
+<br /><b>Country</b>: Israel
+<br /><a href="https://www.upwork.com/jobs/Hiring-Ninja-WordPress-Full-Stack-JavaScript-Developer_%7E0126b78ee7cc9e4c44?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are looking for an experienced WordPress/JS Full-Stack Software Developer who is detail oriented, organized, and writes great code. <br /><br />
+Our main marketing website is built on WordPress, and while this is where most of your time will be spent, you will also work across our backend and web-app too.<br /><br />
+-ONLY LOOKING FOR INDIVIDUAL FREELANCERS<br /><br />
+Requirements:<br /><br />
+- WordPress expert.<br />
+- Woocommerce experience.<br />
+- Stripe experience.<br />
+- PHP expert.<br />
+- MongoDB expert.<br />
+- MySQL experience.<br />
+- Javascript experience, with complete understanding of asynchronous functionality.<br />
+- ReactJS experience with proficiency using Hooks.<br />
+- Clear, concise and punctual communicator.<br />
+- Dedicated to meeting project deadlines, getting work done and writing high quality code.<br /><br />
+Bonus Points:<br />
+- Gtags (Google Tags) experience.<br />
+- Pixels: Facebook/Tiktok etc.<br />
+- Brightcove experience.<br /><br />
+You will use:<br />
+-Slack for communication, Clickup for Task Management, Zapier and more.<br /><br />
+If you read the job post, and you have the requirements needed for this position type &ldquo;I am the right developer for this&rdquo; in your proposal.<br /><br /><b>Hourly Range</b>: $30.00-$50.00
+
+<br /><b>Posted On</b>: May 16, 2023 23:48 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:JavaScript,     WordPress,     PHP,     WooCommerce,     Stripe    
+<br /><b>Country</b>: Israel
+<br /><a href="https://www.upwork.com/jobs/Hiring-Ninja-WordPress-Full-Stack-JavaScript-Developer_%7E0126b78ee7cc9e4c44?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 23:48:25 +0000</pubDate><guid>https://www.upwork.com/jobs/Hiring-Ninja-WordPress-Full-Stack-JavaScript-Developer_%7E0126b78ee7cc9e4c44?source=rss</guid></item><item><title><![CDATA[Develop Monday App for Outbound Email trigger - Upwork]]></title><link>https://www.upwork.com/jobs/Develop-Monday-App-for-Outbound-Email-trigger_%7E01a831a3c8406eca3e?source=rss</link><description><![CDATA[We are looking for a skilled developer to create a Monday app that can trigger outbound emails using a external host. The project is expected to take less than a month to complete. The ideal candidate should have experience in developing applications for Monday.com and be familiar with email integrations.<br /><br />
+The app should provide users with the ability to automate and customize outbound emails based on specific triggers using an email different than outlook or gmail. <br /><br /><b>Hourly Range</b>: $33.00-$68.00
+
+<br /><b>Posted On</b>: May 16, 2023 23:33 UTC<br /><b>Category</b>: Scripting &amp; Automation
+<br /><b>Country</b>: Costa Rica
+<br /><a href="https://www.upwork.com/jobs/Develop-Monday-App-for-Outbound-Email-trigger_%7E01a831a3c8406eca3e?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are looking for a skilled developer to create a Monday app that can trigger outbound emails using a external host. The project is expected to take less than a month to complete. The ideal candidate should have experience in developing applications for Monday.com and be familiar with email integrations.<br /><br />
+The app should provide users with the ability to automate and customize outbound emails based on specific triggers using an email different than outlook or gmail. <br /><br /><b>Hourly Range</b>: $33.00-$68.00
+
+<br /><b>Posted On</b>: May 16, 2023 23:33 UTC<br /><b>Category</b>: Scripting &amp; Automation
+<br /><b>Country</b>: Costa Rica
+<br /><a href="https://www.upwork.com/jobs/Develop-Monday-App-for-Outbound-Email-trigger_%7E01a831a3c8406eca3e?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 23:33:42 +0000</pubDate><guid>https://www.upwork.com/jobs/Develop-Monday-App-for-Outbound-Email-trigger_%7E01a831a3c8406eca3e?source=rss</guid></item><item><title><![CDATA[SharePoint Process Automation - Upwork]]></title><link>https://www.upwork.com/jobs/SharePoint-Process-Automation_%7E0134c7be6d3e8a1697?source=rss</link><description><![CDATA[We are looking for a skilled professional to assist with a SharePoint Process Automation project that is less than 1 month long. The ideal candidate should have expertise in Business Process Automation, Microsoft Power Automate, Microsoft Forms, PowerApps, Microsoft SharePoint Administration, and Microsoft SharePoint. <br /><br />
+As the candidate, we would like you to submit a proposal that describes how you can help with the project. This should include your approach to process automation, your experience with Microsoft Power Automate and SharePoint Administration, and your overall strategy for completing the project within the given timeline.<br /><br />
+We would also like you to include links to past projects that demonstrate your skills in process automation, Microsoft Power Automate, and SharePoint Administration. This will help us to better understand your capabilities and determine if you are the right fit for our project. <br /><br />
+We are excited to hear how you can help us automate our business processes and streamline our workflow using Microsoft Power Automate and SharePoint. Please submit your proposal and links to past projects for our review.<br /><br /><br /><b>Budget</b>: $500
+<br /><b>Posted On</b>: May 16, 2023 23:12 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Microsoft Sharepoint,     Business Process Automation,     Microsoft Power Automate,     Microsoft SharePoint Administration    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/SharePoint-Process-Automation_%7E0134c7be6d3e8a1697?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are looking for a skilled professional to assist with a SharePoint Process Automation project that is less than 1 month long. The ideal candidate should have expertise in Business Process Automation, Microsoft Power Automate, Microsoft Forms, PowerApps, Microsoft SharePoint Administration, and Microsoft SharePoint. <br /><br />
+As the candidate, we would like you to submit a proposal that describes how you can help with the project. This should include your approach to process automation, your experience with Microsoft Power Automate and SharePoint Administration, and your overall strategy for completing the project within the given timeline.<br /><br />
+We would also like you to include links to past projects that demonstrate your skills in process automation, Microsoft Power Automate, and SharePoint Administration. This will help us to better understand your capabilities and determine if you are the right fit for our project. <br /><br />
+We are excited to hear how you can help us automate our business processes and streamline our workflow using Microsoft Power Automate and SharePoint. Please submit your proposal and links to past projects for our review.<br /><br /><br /><b>Budget</b>: $500
+<br /><b>Posted On</b>: May 16, 2023 23:12 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Microsoft Sharepoint,     Business Process Automation,     Microsoft Power Automate,     Microsoft SharePoint Administration    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/SharePoint-Process-Automation_%7E0134c7be6d3e8a1697?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 23:12:20 +0000</pubDate><guid>https://www.upwork.com/jobs/SharePoint-Process-Automation_%7E0134c7be6d3e8a1697?source=rss</guid></item><item><title><![CDATA[Need someone with experience in Adobe Illustrator, SVG, and Python. I have a handwriting robot.  - Upwork]]></title><link>https://www.upwork.com/jobs/Need-someone-with-experience-Adobe-Illustrator-SVG-and-Python-have-handwriting-robot_%7E012473e74e61ae6aa1?source=rss</link><description><![CDATA[Hi, I want to write letters with handwriting. I have a special handwriting machine. <br /><br />
+https://www.youtube.com/watch?v=7apC4KbVqJk<br /><br />
+It accepts SVG files, works with inkscape, <br /><br />
+There are a couple of things I want to do with this machine. <br /><br />
+One is write handwritten letters.<br />
+The paragraph that I am writing will always be the same. It is this:<br /><br />
+&amp;quot;I wish to receive Sweeps Coins to participate in the sweepstakes promotions offered by Chumba Casino. By submitting this request, I hereby declare that I have read, understood and agree to be bound by Chumba Casino&#039;s Terms and Conditions and Sweeps Rules.&amp;quot;<br /><br />
+The tricky part is, I need it to look really handwritten. So I need a way for each letter to look slightly different. <br /><br />
+One way I was thinking about this, was handwriting this card myself 50 times. That would produce 50 uniquely handwritten cards with unique letters. <br /><br />
+Then I would scan all 50 cards. <br />
+Then either print one of the 50 cards each time, or a better way would be to isolate each letter at each position, then dynamically generate every letter by randomly using a letter from each card.<br /><br />
+This would probably require some programming. <br />
+The end result would need to be a SVG file that that machine can use. <br />
+https://www.bachinmaker.com/?p=71<br /><br />
+Let me know what you think<br /><br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 16, 2023 22:34 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Python,     Adobe Illustrator,     SVG    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Need-someone-with-experience-Adobe-Illustrator-SVG-and-Python-have-handwriting-robot_%7E012473e74e61ae6aa1?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Hi, I want to write letters with handwriting. I have a special handwriting machine. <br /><br />
+https://www.youtube.com/watch?v=7apC4KbVqJk<br /><br />
+It accepts SVG files, works with inkscape, <br /><br />
+There are a couple of things I want to do with this machine. <br /><br />
+One is write handwritten letters.<br />
+The paragraph that I am writing will always be the same. It is this:<br /><br />
+&amp;quot;I wish to receive Sweeps Coins to participate in the sweepstakes promotions offered by Chumba Casino. By submitting this request, I hereby declare that I have read, understood and agree to be bound by Chumba Casino&#039;s Terms and Conditions and Sweeps Rules.&amp;quot;<br /><br />
+The tricky part is, I need it to look really handwritten. So I need a way for each letter to look slightly different. <br /><br />
+One way I was thinking about this, was handwriting this card myself 50 times. That would produce 50 uniquely handwritten cards with unique letters. <br /><br />
+Then I would scan all 50 cards. <br />
+Then either print one of the 50 cards each time, or a better way would be to isolate each letter at each position, then dynamically generate every letter by randomly using a letter from each card.<br /><br />
+This would probably require some programming. <br />
+The end result would need to be a SVG file that that machine can use. <br />
+https://www.bachinmaker.com/?p=71<br /><br />
+Let me know what you think<br /><br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 16, 2023 22:34 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Python,     Adobe Illustrator,     SVG    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Need-someone-with-experience-Adobe-Illustrator-SVG-and-Python-have-handwriting-robot_%7E012473e74e61ae6aa1?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 22:34:51 +0000</pubDate><guid>https://www.upwork.com/jobs/Need-someone-with-experience-Adobe-Illustrator-SVG-and-Python-have-handwriting-robot_%7E012473e74e61ae6aa1?source=rss</guid></item><item><title><![CDATA[Conversion of Password Management Browser Extension from Manifest V2 to Manifest V3 - Upwork]]></title><link>https://www.upwork.com/jobs/Conversion-Password-Management-Browser-Extension-from-Manifest-Manifest_%7E01f13174fca868a035?source=rss</link><description><![CDATA[We are inviting proposals from qualified freelance developers to convert our existing password management browser extension from Manifest V2 to Manifest V3. We seek an experienced developer with expertise in ReactJS and a strong background in building browser extensions for Chrome and Edge.<br /><br />
+1. Project Overview:<br /><br />
+Our password management browser extension is currently based on the deprecated Manifest V2 architecture. To ensure compatibility with modern browsers and improve security, performance, and functionality, we require the conversion to the latest Manifest V3 specification. It is a large application with multiple background scripts that communicate with a local desktop service for password synchronization. It includes auto-fill capabilities in the content script that needs to keep working flawlessly. It also has a significant and vital Native Messaging component that needs to be maintained as the app is transitioned to the new Manifest version. It is a production application with thousands of deployments. You must have experience in working with large and complex browser extensions and ReactJS to do this project.<br /><br />
+2. Project Scope:<br /><br />
+The project scope includes the following tasks:<br /><br />
+- Convert the existing extension from Manifest V2 to Manifest V3, adhering to the new architecture&#039;s guidelines and limitations.<br />
+- Update the extension codebase written in ReactJS, making necessary adjustments to accommodate the new architecture requirements.<br />
+- Ensure the extension remains compatible with Chrome, Edge and Firefox browsers, verifying proper functionality and stability.<br />
+- Implement any necessary security enhancements or best practices recommended for Manifest V3 extensions.<br />
+- Test the converted extension thoroughly, including compatibility testing across different browser versions and platforms.<br />
+- Provide documentation outlining the changes made and instructions for maintaining and updating the extension in the future.<br /><br />
+3. Proposal Requirements:<br /><br />
+Interested freelance developers are requested to submit the following information:<br /><br />
+- Personal profile and relevant experience, specifically related to ReactJS development and browser extension development for Chrome and Edge.<br />
+- Details of similar projects completed, highlighting successful conversions from Manifest V2 to Manifest V3.<br />
+- Proposed timeline for the project, including key milestones and deliverables.<br />
+- Proposed approach and methodology for the conversion, emphasizing any unique strategies or techniques.<br />
+- Pricing structure, indicating either an hourly rate or a fixed project price.<br />
+- References from previous clients who can verify the quality and timeliness of your work.<br /><br />
+4. Submission Guidelines:<br /><br />
+Please include your ideas on the process for completing the project with clear guidelines as to how you will go about doing the task.<br /><br />
+5. Selection Process:<br /><br />
+Upon receiving the proposals, our evaluation team will review and assess each submission based on the following criteria:<br /><br />
+- Demonstrated expertise and experience in ReactJS development and building browser extensions for Chrome and Edge.<br />
+- Successful completion of similar projects, particularly conversions from Manifest V2 to Manifest V3.<br />
+- Proposed timeline and methodology for the conversion.<br />
+- Competitive pricing and value for the services offered.<br />
+- Positive references and feedback from previous clients.<br /><br />
+We reserve the right to request additional information or schedule interviews with shortlisted freelance developers, if necessary. The final decision will be communicated to the selected developer in a timely manner.<br /><br />
+Successful completion of this project may lead to a longer contract for ongoing maintenance and upgrades of the browser extension.<br /><br />
+Thank you for your interest in this project, and we look forward to receiving your proposal.<br /><br /><br /><br /><b>Hourly Range</b>: $15.00-$32.00
+
+<br /><b>Posted On</b>: May 16, 2023 22:18 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React,     Browser Extension,     Web Application,     API Integration,     TypeScript,     JavaScript,     HTML,     C#    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Conversion-Password-Management-Browser-Extension-from-Manifest-Manifest_%7E01f13174fca868a035?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are inviting proposals from qualified freelance developers to convert our existing password management browser extension from Manifest V2 to Manifest V3. We seek an experienced developer with expertise in ReactJS and a strong background in building browser extensions for Chrome and Edge.<br /><br />
+1. Project Overview:<br /><br />
+Our password management browser extension is currently based on the deprecated Manifest V2 architecture. To ensure compatibility with modern browsers and improve security, performance, and functionality, we require the conversion to the latest Manifest V3 specification. It is a large application with multiple background scripts that communicate with a local desktop service for password synchronization. It includes auto-fill capabilities in the content script that needs to keep working flawlessly. It also has a significant and vital Native Messaging component that needs to be maintained as the app is transitioned to the new Manifest version. It is a production application with thousands of deployments. You must have experience in working with large and complex browser extensions and ReactJS to do this project.<br /><br />
+2. Project Scope:<br /><br />
+The project scope includes the following tasks:<br /><br />
+- Convert the existing extension from Manifest V2 to Manifest V3, adhering to the new architecture&#039;s guidelines and limitations.<br />
+- Update the extension codebase written in ReactJS, making necessary adjustments to accommodate the new architecture requirements.<br />
+- Ensure the extension remains compatible with Chrome, Edge and Firefox browsers, verifying proper functionality and stability.<br />
+- Implement any necessary security enhancements or best practices recommended for Manifest V3 extensions.<br />
+- Test the converted extension thoroughly, including compatibility testing across different browser versions and platforms.<br />
+- Provide documentation outlining the changes made and instructions for maintaining and updating the extension in the future.<br /><br />
+3. Proposal Requirements:<br /><br />
+Interested freelance developers are requested to submit the following information:<br /><br />
+- Personal profile and relevant experience, specifically related to ReactJS development and browser extension development for Chrome and Edge.<br />
+- Details of similar projects completed, highlighting successful conversions from Manifest V2 to Manifest V3.<br />
+- Proposed timeline for the project, including key milestones and deliverables.<br />
+- Proposed approach and methodology for the conversion, emphasizing any unique strategies or techniques.<br />
+- Pricing structure, indicating either an hourly rate or a fixed project price.<br />
+- References from previous clients who can verify the quality and timeliness of your work.<br /><br />
+4. Submission Guidelines:<br /><br />
+Please include your ideas on the process for completing the project with clear guidelines as to how you will go about doing the task.<br /><br />
+5. Selection Process:<br /><br />
+Upon receiving the proposals, our evaluation team will review and assess each submission based on the following criteria:<br /><br />
+- Demonstrated expertise and experience in ReactJS development and building browser extensions for Chrome and Edge.<br />
+- Successful completion of similar projects, particularly conversions from Manifest V2 to Manifest V3.<br />
+- Proposed timeline and methodology for the conversion.<br />
+- Competitive pricing and value for the services offered.<br />
+- Positive references and feedback from previous clients.<br /><br />
+We reserve the right to request additional information or schedule interviews with shortlisted freelance developers, if necessary. The final decision will be communicated to the selected developer in a timely manner.<br /><br />
+Successful completion of this project may lead to a longer contract for ongoing maintenance and upgrades of the browser extension.<br /><br />
+Thank you for your interest in this project, and we look forward to receiving your proposal.<br /><br /><br /><br /><b>Hourly Range</b>: $15.00-$32.00
+
+<br /><b>Posted On</b>: May 16, 2023 22:18 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React,     Browser Extension,     Web Application,     API Integration,     TypeScript,     JavaScript,     HTML,     C#    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Conversion-Password-Management-Browser-Extension-from-Manifest-Manifest_%7E01f13174fca868a035?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 22:18:04 +0000</pubDate><guid>https://www.upwork.com/jobs/Conversion-Password-Management-Browser-Extension-from-Manifest-Manifest_%7E01f13174fca868a035?source=rss</guid></item><item><title><![CDATA[Fix and Run &quot;C&quot; project on GitHub - Upwork]]></title><link>https://www.upwork.com/jobs/Fix-and-Run-quot-quot-project-GitHub_%7E0102989b0774bf780c?source=rss</link><description><![CDATA[Hello!<br /><br />
+I need help to compile &amp;amp; fix github library and run it on Amazon. <br />
+It&#039;s was already successfully started, but it still not working. <br /><br />
+Dependences in library: <br />
+1. clang or gcc <br />
+2. golang<br />
+3. libevent (libevent-dev)<br />
+4. openssl (libssl-dev)<br />
+5. cmake<br /><br />
+Link for library will provide in messages. <br />
+Thanks!<br /><br /><b>Hourly Range</b>: $33.00-$68.00
+
+<br /><b>Posted On</b>: May 16, 2023 20:44 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:C,     Golang,     Git    
+<br /><b>Country</b>: Cyprus
+<br /><a href="https://www.upwork.com/jobs/Fix-and-Run-quot-quot-project-GitHub_%7E0102989b0774bf780c?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Hello!<br /><br />
+I need help to compile &amp;amp; fix github library and run it on Amazon. <br />
+It&#039;s was already successfully started, but it still not working. <br /><br />
+Dependences in library: <br />
+1. clang or gcc <br />
+2. golang<br />
+3. libevent (libevent-dev)<br />
+4. openssl (libssl-dev)<br />
+5. cmake<br /><br />
+Link for library will provide in messages. <br />
+Thanks!<br /><br /><b>Hourly Range</b>: $33.00-$68.00
+
+<br /><b>Posted On</b>: May 16, 2023 20:44 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:C,     Golang,     Git    
+<br /><b>Country</b>: Cyprus
+<br /><a href="https://www.upwork.com/jobs/Fix-and-Run-quot-quot-project-GitHub_%7E0102989b0774bf780c?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 20:44:30 +0000</pubDate><guid>https://www.upwork.com/jobs/Fix-and-Run-quot-quot-project-GitHub_%7E0102989b0774bf780c?source=rss</guid></item><item><title><![CDATA[Blockchain unity - Upwork]]></title><link>https://www.upwork.com/jobs/Blockchain-unity_%7E01e11d8d0c409e7f25?source=rss</link><description><![CDATA[Hello!<br /><br />
+I am in need of an expert with Unity and Cardano development.<br /><br />
+I have a pre-existing multiplayer WebGL game which I want to add a web3 element to.<br /><br />
+What I need is to have the complete on-chain/off-chain code necessary developed for a player with a Cardano wallet to click the Connect Button in my Unity WebGL game (from the existing Main Menu) and have it load all of their NFTs in the wallet. Then, the player can select an NFT and it will be set as the GameObject representing their character in the game.<br /><br />
+Additional work can be offered after the completion of this milestone.<br /><br />
+Please let me know if you are interested. Thank you!<br /><br /><b>Hourly Range</b>: $25.00-$35.00
+
+<br /><b>Posted On</b>: May 16, 2023 20:39 UTC<br /><b>Category</b>: Video Game Development<br /><b>Skills</b>:Cardano,     Unity,     C#,     iOS,     Android,     WebGL,     Online Multiplayer,     Blockchain, NFT &amp; Cryptocurrency    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Blockchain-unity_%7E01e11d8d0c409e7f25?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Hello!<br /><br />
+I am in need of an expert with Unity and Cardano development.<br /><br />
+I have a pre-existing multiplayer WebGL game which I want to add a web3 element to.<br /><br />
+What I need is to have the complete on-chain/off-chain code necessary developed for a player with a Cardano wallet to click the Connect Button in my Unity WebGL game (from the existing Main Menu) and have it load all of their NFTs in the wallet. Then, the player can select an NFT and it will be set as the GameObject representing their character in the game.<br /><br />
+Additional work can be offered after the completion of this milestone.<br /><br />
+Please let me know if you are interested. Thank you!<br /><br /><b>Hourly Range</b>: $25.00-$35.00
+
+<br /><b>Posted On</b>: May 16, 2023 20:39 UTC<br /><b>Category</b>: Video Game Development<br /><b>Skills</b>:Cardano,     Unity,     C#,     iOS,     Android,     WebGL,     Online Multiplayer,     Blockchain, NFT &amp; Cryptocurrency    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Blockchain-unity_%7E01e11d8d0c409e7f25?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 20:39:02 +0000</pubDate><guid>https://www.upwork.com/jobs/Blockchain-unity_%7E01e11d8d0c409e7f25?source=rss</guid></item><item><title><![CDATA[Zapier Expert Subcontractor Needed - Upwork]]></title><link>https://www.upwork.com/jobs/Zapier-Expert-Subcontractor-Needed_%7E013361a9b8be452186?source=rss</link><description><![CDATA[Hi there, Groove Consulting (grooveconsulting.io) is looking for a superstar Zapier wizard to join our team (as a subcontractor) to assist our clients with Zapier integrations, improvements, and testing.<br /><br />
+The work is not expected to exceed 5-10 hours per week but can range from time to time! We will start with one project then increase collaboration over time if it goes well.<br /><br />
+Requirements (DO NOT APPLY IF YOU DON&#039;T MEET THESE REQUIREMENTS):<br />
+1. Reachable and available during US business hours <br />
+2. Have built over 50 zaps across a myriad of different apps<br />
+3. Can wear a design hat to recommend sustainable zap builds for clients that don&#039;t require constant upkeep<br />
+4. Background of fixing zaps set up by other people for clients<br />
+5. Have experience testing and diagnosing zap setups<br />
+6. Transparent biller, if something takes 30 minutes, you log 30 minutes, not 4 hours. <br />
+7. Fluent in English<br /><br />
+ Bonus Points: Experienced with setting up Zaps for HubSpot, Monday.com, Close.io, Slack, and Salesforce.<br /><br />
+Thank you for reaching out! Please add your favorite animal in the description so we know it&#039;s a legitimate proposal.<br /><br /><br /><b>Hourly Range</b>: $25.00-$55.00
+
+<br /><b>Posted On</b>: May 16, 2023 20:38 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Zapier,     Automation    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Zapier-Expert-Subcontractor-Needed_%7E013361a9b8be452186?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Hi there, Groove Consulting (grooveconsulting.io) is looking for a superstar Zapier wizard to join our team (as a subcontractor) to assist our clients with Zapier integrations, improvements, and testing.<br /><br />
+The work is not expected to exceed 5-10 hours per week but can range from time to time! We will start with one project then increase collaboration over time if it goes well.<br /><br />
+Requirements (DO NOT APPLY IF YOU DON&#039;T MEET THESE REQUIREMENTS):<br />
+1. Reachable and available during US business hours <br />
+2. Have built over 50 zaps across a myriad of different apps<br />
+3. Can wear a design hat to recommend sustainable zap builds for clients that don&#039;t require constant upkeep<br />
+4. Background of fixing zaps set up by other people for clients<br />
+5. Have experience testing and diagnosing zap setups<br />
+6. Transparent biller, if something takes 30 minutes, you log 30 minutes, not 4 hours. <br />
+7. Fluent in English<br /><br />
+ Bonus Points: Experienced with setting up Zaps for HubSpot, Monday.com, Close.io, Slack, and Salesforce.<br /><br />
+Thank you for reaching out! Please add your favorite animal in the description so we know it&#039;s a legitimate proposal.<br /><br /><br /><b>Hourly Range</b>: $25.00-$55.00
+
+<br /><b>Posted On</b>: May 16, 2023 20:38 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Zapier,     Automation    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Zapier-Expert-Subcontractor-Needed_%7E013361a9b8be452186?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 20:38:22 +0000</pubDate><guid>https://www.upwork.com/jobs/Zapier-Expert-Subcontractor-Needed_%7E013361a9b8be452186?source=rss</guid></item><item><title><![CDATA[ChatGPT Developer for Chrome Extension - Upwork]]></title><link>https://www.upwork.com/jobs/ChatGPT-Developer-for-Chrome-Extension_%7E01f6b2a75a1eea30fb?source=rss</link><description><![CDATA[Are you a skilled ChatGPT developer with experience in building Chrome extensions? We are looking for a talented individual to join our team and help us create a ChatGPT Chrome extension that will revolutionize the way people communicate online.<br /><br />
+As our ChatGPT developer, you will be responsible for designing, developing, and testing the ChatGPT Chrome extension. You will work closely with our team of designers and developers to ensure that the extension meets our high standards of quality and functionality.<br /><br />
+To be considered for this position, you must have:<br /><br />
+Proven experience in ChatGPT development<br />
+Experience in building Chrome extensions<br />
+Strong knowledge of JavaScript, HTML, and CSS<br />
+Excellent communication skills in English<br />
+If you meet these requirements and are interested in this exciting opportunity, please submit your application today. We would love to see examples of your previous work, so please include links to any relevant projects or GitHub repositories.<br /><br />
+Thank you<br /><br /><b>Hourly Range</b>: $25.00-$49.00
+
+<br /><b>Posted On</b>: May 16, 2023 20:10 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:ChatGPT,     Google Chrome Extension,     JavaScript,     API    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/ChatGPT-Developer-for-Chrome-Extension_%7E01f6b2a75a1eea30fb?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Are you a skilled ChatGPT developer with experience in building Chrome extensions? We are looking for a talented individual to join our team and help us create a ChatGPT Chrome extension that will revolutionize the way people communicate online.<br /><br />
+As our ChatGPT developer, you will be responsible for designing, developing, and testing the ChatGPT Chrome extension. You will work closely with our team of designers and developers to ensure that the extension meets our high standards of quality and functionality.<br /><br />
+To be considered for this position, you must have:<br /><br />
+Proven experience in ChatGPT development<br />
+Experience in building Chrome extensions<br />
+Strong knowledge of JavaScript, HTML, and CSS<br />
+Excellent communication skills in English<br />
+If you meet these requirements and are interested in this exciting opportunity, please submit your application today. We would love to see examples of your previous work, so please include links to any relevant projects or GitHub repositories.<br /><br />
+Thank you<br /><br /><b>Hourly Range</b>: $25.00-$49.00
+
+<br /><b>Posted On</b>: May 16, 2023 20:10 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:ChatGPT,     Google Chrome Extension,     JavaScript,     API    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/ChatGPT-Developer-for-Chrome-Extension_%7E01f6b2a75a1eea30fb?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 20:10:16 +0000</pubDate><guid>https://www.upwork.com/jobs/ChatGPT-Developer-for-Chrome-Extension_%7E01f6b2a75a1eea30fb?source=rss</guid></item><item><title><![CDATA[Set up project management and CRM in spreadsheets.com (or similar) - Upwork]]></title><link>https://www.upwork.com/jobs/Set-project-management-and-CRM-spreadsheets-com-similar_%7E011ae1398244ad75d8?source=rss</link><description><![CDATA[I&#039;m building a small consultancy practice running several complex projects at the same time, while also keeping a running program of business development going. I&#039;d like to set up a spreadsheet-based approach to:<br /><br />
+* Project planning, management and timelines<br />
+* CRM for clients, prospects and other contacts.<br /><br />
+In my last job, I had access to Salesforce and Teamwork and a really excellent COO who made sure these were optimized for these needs. Of course, my needs are a lot less complex now, but I still need these basics to keep things on track.<br /><br />
+I&#039;ve been experimenting with spreadsheet.com and have also tested Smartsheet, but I have neither the time nor skill to set up for myself what I have in mind. I&#039;m looking for a contractor who will talk through my requirements with me, set up systems, and talk me through the logic behind the setup (I&#039;m pretty good at adjusting things as my needs evolve, if I understand the logic).<br /><br />
+Not a big project, but hopefully a fun one for the right person. My timeline is flexible - I only ask that you communicate around progress and if your ETA on things changes.<br /><br /><b>Hourly Range</b>: $12.00-$40.00
+
+<br /><b>Posted On</b>: May 16, 2023 19:41 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:CRM Development,     Project Scheduling,     Digital Project Management,     Project Timelines    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Set-project-management-and-CRM-spreadsheets-com-similar_%7E011ae1398244ad75d8?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[I&#039;m building a small consultancy practice running several complex projects at the same time, while also keeping a running program of business development going. I&#039;d like to set up a spreadsheet-based approach to:<br /><br />
+* Project planning, management and timelines<br />
+* CRM for clients, prospects and other contacts.<br /><br />
+In my last job, I had access to Salesforce and Teamwork and a really excellent COO who made sure these were optimized for these needs. Of course, my needs are a lot less complex now, but I still need these basics to keep things on track.<br /><br />
+I&#039;ve been experimenting with spreadsheet.com and have also tested Smartsheet, but I have neither the time nor skill to set up for myself what I have in mind. I&#039;m looking for a contractor who will talk through my requirements with me, set up systems, and talk me through the logic behind the setup (I&#039;m pretty good at adjusting things as my needs evolve, if I understand the logic).<br /><br />
+Not a big project, but hopefully a fun one for the right person. My timeline is flexible - I only ask that you communicate around progress and if your ETA on things changes.<br /><br /><b>Hourly Range</b>: $12.00-$40.00
+
+<br /><b>Posted On</b>: May 16, 2023 19:41 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:CRM Development,     Project Scheduling,     Digital Project Management,     Project Timelines    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Set-project-management-and-CRM-spreadsheets-com-similar_%7E011ae1398244ad75d8?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 19:41:27 +0000</pubDate><guid>https://www.upwork.com/jobs/Set-project-management-and-CRM-spreadsheets-com-similar_%7E011ae1398244ad75d8?source=rss</guid></item><item><title><![CDATA[PHP Script to retrieve RingCentral Call logs  - Upwork]]></title><link>https://www.upwork.com/jobs/PHP-Script-retrieve-RingCentral-Call-logs_%7E010640c8b9b13dab3b?source=rss</link><description><![CDATA[Do NOT propose if you don&#039;t know RingCentral API.<br />
+Need expert with PHP experience in writing RingCentral API calls to collect call logs and save in a GoDaddy hosted cPanel MySQL database for further analysis.&nbsp;&nbsp;You must have prior experience in RingCentral Developer console, and have similar project experience to be considered<br /><br /><b>Budget</b>: $350
+<br /><b>Posted On</b>: May 16, 2023 19:12 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:API,     PHP,     RingCentral Glip    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/PHP-Script-retrieve-RingCentral-Call-logs_%7E010640c8b9b13dab3b?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Do NOT propose if you don&#039;t know RingCentral API.<br />
+Need expert with PHP experience in writing RingCentral API calls to collect call logs and save in a GoDaddy hosted cPanel MySQL database for further analysis.&nbsp;&nbsp;You must have prior experience in RingCentral Developer console, and have similar project experience to be considered<br /><br /><b>Budget</b>: $350
+<br /><b>Posted On</b>: May 16, 2023 19:12 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:API,     PHP,     RingCentral Glip    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/PHP-Script-retrieve-RingCentral-Call-logs_%7E010640c8b9b13dab3b?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 19:12:39 +0000</pubDate><guid>https://www.upwork.com/jobs/PHP-Script-retrieve-RingCentral-Call-logs_%7E010640c8b9b13dab3b?source=rss</guid></item><item><title><![CDATA[Updates to existing EA mt5 - Upwork]]></title><link>https://www.upwork.com/jobs/Updates-existing-mt5_%7E01c8e21ae4cef91862?source=rss</link><description><![CDATA[We are in need of a skilled MQL 5 developer to help us with updates to an existing EA mt5. The project length is less than one month, and we are looking for someone who can work quickly and efficiently to make the necessary changes.<br /><br />
+The ideal candidate should have a strong background in MQL 5 and be able to provide examples of past projects they have completed. We are looking for someone who can work independently and is able to communicate effectively throughout the project.<br /><br />
+To apply for this position, please submit a detailed proposal outlining your experience with MQL 5 and how you can help with the project. Please include links to past completed projects that showcase your skills and experience.<br /><br />
+We are looking forward to hearing from you and finding the right candidate to help us with this project.<br /><br />
+Note: Some of the content in this job post may have been auto-generated using advanced AI.<br /><br /><b>Hourly Range</b>: $39.00-$40.00
+
+<br /><b>Posted On</b>: May 16, 2023 18:57 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:MQL 5    
+<br /><b>Country</b>: United Kingdom
+<br /><a href="https://www.upwork.com/jobs/Updates-existing-mt5_%7E01c8e21ae4cef91862?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are in need of a skilled MQL 5 developer to help us with updates to an existing EA mt5. The project length is less than one month, and we are looking for someone who can work quickly and efficiently to make the necessary changes.<br /><br />
+The ideal candidate should have a strong background in MQL 5 and be able to provide examples of past projects they have completed. We are looking for someone who can work independently and is able to communicate effectively throughout the project.<br /><br />
+To apply for this position, please submit a detailed proposal outlining your experience with MQL 5 and how you can help with the project. Please include links to past completed projects that showcase your skills and experience.<br /><br />
+We are looking forward to hearing from you and finding the right candidate to help us with this project.<br /><br />
+Note: Some of the content in this job post may have been auto-generated using advanced AI.<br /><br /><b>Hourly Range</b>: $39.00-$40.00
+
+<br /><b>Posted On</b>: May 16, 2023 18:57 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:MQL 5    
+<br /><b>Country</b>: United Kingdom
+<br /><a href="https://www.upwork.com/jobs/Updates-existing-mt5_%7E01c8e21ae4cef91862?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 18:57:01 +0000</pubDate><guid>https://www.upwork.com/jobs/Updates-existing-mt5_%7E01c8e21ae4cef91862?source=rss</guid></item><item><title><![CDATA[Jira and Git integration, Test Management Implementation and Automation and Scripting Implementation - Upwork]]></title><link>https://www.upwork.com/jobs/Jira-and-Git-integration-Test-Management-Implementation-and-Automation-and-Scripting-Implementation_%7E012507e8c11b4b492b?source=rss</link><description><![CDATA[Revenue Roll has a need to implement Xray Test Management with our existing Jira Cloud, integrate Quality Assurance (QA) checklist, integrate Github with Jira and automate pull requests from Git with Jira. The automated process supports Revenue Roll&rsquo;s ability to ensure that all deployments are tracked, tested thoroughly and ready in Staging before deployment to Production and that a full and proper QA is conducted upon deployment to Production.<br />
+Revenue Roll currently does not have Xray Test Management installed and configured and is on the Cloud Standard subscription plan.<br /><br /><br /><b>Budget</b>: $1,000
+<br /><b>Posted On</b>: May 16, 2023 18:40 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:GitHub,     Test Management,     QA Testing,     Slack    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Jira-and-Git-integration-Test-Management-Implementation-and-Automation-and-Scripting-Implementation_%7E012507e8c11b4b492b?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Revenue Roll has a need to implement Xray Test Management with our existing Jira Cloud, integrate Quality Assurance (QA) checklist, integrate Github with Jira and automate pull requests from Git with Jira. The automated process supports Revenue Roll&rsquo;s ability to ensure that all deployments are tracked, tested thoroughly and ready in Staging before deployment to Production and that a full and proper QA is conducted upon deployment to Production.<br />
+Revenue Roll currently does not have Xray Test Management installed and configured and is on the Cloud Standard subscription plan.<br /><br /><br /><b>Budget</b>: $1,000
+<br /><b>Posted On</b>: May 16, 2023 18:40 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:GitHub,     Test Management,     QA Testing,     Slack    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Jira-and-Git-integration-Test-Management-Implementation-and-Automation-and-Scripting-Implementation_%7E012507e8c11b4b492b?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 18:40:29 +0000</pubDate><guid>https://www.upwork.com/jobs/Jira-and-Git-integration-Test-Management-Implementation-and-Automation-and-Scripting-Implementation_%7E012507e8c11b4b492b?source=rss</guid></item><item><title><![CDATA[Senior Microsoft ASP.NET (MVC + MySQL) Developer - Upwork]]></title><link>https://www.upwork.com/jobs/Senior-Microsoft-ASP-NET-MVC-MySQL-Developer_%7E01de32a299d6a3847b?source=rss</link><description><![CDATA[We are a SaaS company providing a cutting-edge SEO tool, helping businesses optimize their online presence. We are a small but growing team, currently comprised of two developers and a product manager. Our workflow is managed through Basecamp and we pride ourselves on a collaborative, task-oriented working style.<br /><br />
+We are seeking a senior level Microsoft ASP.NET developer to join our team on a contract basis to help manage our growing backlog of tasks.<br /><br /><br />
+Responsibilities:<br />
+- Design, build, and maintain efficient, reusable, and reliable ASP.NET code<br /><br />
+- Understand business requirements and translate them into technical specifications<br /><br />
+- Develop high-quality, scalable, and predictable web applications on the Microsoft + MySQl and AWS technology stack<br /><br />
+- Collaborate effectively with both technical and non-technical stakeholders<br /><br />
+- Debugging and resolving technical problems that arise<br /><br />
+- Development of unit tests and functional test plans<br /><br />
+- Ensure that all tasks are well documented and updated regularly in Basecamp<br /><br /><br />
+Requirements:<br />
+- Proven experience as a Senior Developer, with a strong focus on ASP.NET (Core and Framework), MySQL, and AWS<br /><br />
+- Strong understanding of HTML, CSS, JavaScript, and jQuery<br /><br />
+- Excellent troubleshooting and communication skills<br /><br />
+- Ability to work independently and also as a part of a team<br /><br />
+- Experience with SEO tools would be considered an asset<br /><br />
+- Fluent English language skills, both written and spoken<br /><br /><br />
+Deliverables:<br />
+- Timely completion of tasks as per the Backlog and To-Do list in Basecamp<br /><br />
+- Maintenance and enhancement of our existing SEO tool<br /><br />
+- Regularly updated task documentation<br /><br />
+- Active collaboration with the product manager and development team<br /><br />
+- Proactive identification and resolution of issues<br /><br /><br />
+Other Information:<br />
+This position is a part-time contract, with an expected commitment of 20 hours per week. We are dedicated to maintaining a respectful, inclusive, and supportive work environment; we encourage applications from all qualified individuals.<br /><br />
+If you&#039;re a self-motivated developer with a passion for problem-solving and a desire to be part of a dynamic team, we would love to hear from you. Please apply with your resume and a brief summary of your related experience.<br /><br />
+Note: Only candidates who are considered for an interview will be contacted.<br /><br />
+YOU WILL NEED A DEDICATED IP ADDRESS TO ACCESS OUR DEVELOPMENT ENVIRONMENT<br /><br /><b>Hourly Range</b>: $25.00-$49.00
+
+<br /><b>Posted On</b>: May 16, 2023 18:28 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:MySQL,     Amazon Web Services,     Web Application,     ASP.NET,     ASP.NET MVC    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Senior-Microsoft-ASP-NET-MVC-MySQL-Developer_%7E01de32a299d6a3847b?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are a SaaS company providing a cutting-edge SEO tool, helping businesses optimize their online presence. We are a small but growing team, currently comprised of two developers and a product manager. Our workflow is managed through Basecamp and we pride ourselves on a collaborative, task-oriented working style.<br /><br />
+We are seeking a senior level Microsoft ASP.NET developer to join our team on a contract basis to help manage our growing backlog of tasks.<br /><br /><br />
+Responsibilities:<br />
+- Design, build, and maintain efficient, reusable, and reliable ASP.NET code<br /><br />
+- Understand business requirements and translate them into technical specifications<br /><br />
+- Develop high-quality, scalable, and predictable web applications on the Microsoft + MySQl and AWS technology stack<br /><br />
+- Collaborate effectively with both technical and non-technical stakeholders<br /><br />
+- Debugging and resolving technical problems that arise<br /><br />
+- Development of unit tests and functional test plans<br /><br />
+- Ensure that all tasks are well documented and updated regularly in Basecamp<br /><br /><br />
+Requirements:<br />
+- Proven experience as a Senior Developer, with a strong focus on ASP.NET (Core and Framework), MySQL, and AWS<br /><br />
+- Strong understanding of HTML, CSS, JavaScript, and jQuery<br /><br />
+- Excellent troubleshooting and communication skills<br /><br />
+- Ability to work independently and also as a part of a team<br /><br />
+- Experience with SEO tools would be considered an asset<br /><br />
+- Fluent English language skills, both written and spoken<br /><br /><br />
+Deliverables:<br />
+- Timely completion of tasks as per the Backlog and To-Do list in Basecamp<br /><br />
+- Maintenance and enhancement of our existing SEO tool<br /><br />
+- Regularly updated task documentation<br /><br />
+- Active collaboration with the product manager and development team<br /><br />
+- Proactive identification and resolution of issues<br /><br /><br />
+Other Information:<br />
+This position is a part-time contract, with an expected commitment of 20 hours per week. We are dedicated to maintaining a respectful, inclusive, and supportive work environment; we encourage applications from all qualified individuals.<br /><br />
+If you&#039;re a self-motivated developer with a passion for problem-solving and a desire to be part of a dynamic team, we would love to hear from you. Please apply with your resume and a brief summary of your related experience.<br /><br />
+Note: Only candidates who are considered for an interview will be contacted.<br /><br />
+YOU WILL NEED A DEDICATED IP ADDRESS TO ACCESS OUR DEVELOPMENT ENVIRONMENT<br /><br /><b>Hourly Range</b>: $25.00-$49.00
+
+<br /><b>Posted On</b>: May 16, 2023 18:28 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:MySQL,     Amazon Web Services,     Web Application,     ASP.NET,     ASP.NET MVC    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Senior-Microsoft-ASP-NET-MVC-MySQL-Developer_%7E01de32a299d6a3847b?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 18:28:32 +0000</pubDate><guid>https://www.upwork.com/jobs/Senior-Microsoft-ASP-NET-MVC-MySQL-Developer_%7E01de32a299d6a3847b?source=rss</guid></item><item><title><![CDATA[Unity C# Script Developer - Upwork]]></title><link>https://www.upwork.com/jobs/Unity-Script-Developer_%7E016d740dba67d8038b?source=rss</link><description><![CDATA[I&#039;m seeking an expert in Unity with several projects and years of experience.<br /><br />
+The perfect candidate should be someone who can combine design and coding elements for a successful project. In addition to Unity experience, candidates should have proficiency in C#&nbsp;&nbsp;programming languages with Unity context. Please include your portfolio/website with your proposal.<br /><br />
+The candidate will have to review existing code, add features, and write the code in C#.<br /><br />
+The right candidate must have at least 80% rating and should be willing to work at least 1/2 of EST time.<br /><br />
+Also, he/she should be able to work on an existing project and demonstrate progress relativity quickly. <br /><br /><b>Hourly Range</b>: $15.00-$30.00
+
+<br /><b>Posted On</b>: May 16, 2023 18:21 UTC<br /><b>Category</b>: Video Game Development<br /><b>Skills</b>:Unity,     C#,     Game Development,     Android,     Smartphone,     Augmented Reality,     Game Design    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Unity-Script-Developer_%7E016d740dba67d8038b?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[I&#039;m seeking an expert in Unity with several projects and years of experience.<br /><br />
+The perfect candidate should be someone who can combine design and coding elements for a successful project. In addition to Unity experience, candidates should have proficiency in C#&nbsp;&nbsp;programming languages with Unity context. Please include your portfolio/website with your proposal.<br /><br />
+The candidate will have to review existing code, add features, and write the code in C#.<br /><br />
+The right candidate must have at least 80% rating and should be willing to work at least 1/2 of EST time.<br /><br />
+Also, he/she should be able to work on an existing project and demonstrate progress relativity quickly. <br /><br /><b>Hourly Range</b>: $15.00-$30.00
+
+<br /><b>Posted On</b>: May 16, 2023 18:21 UTC<br /><b>Category</b>: Video Game Development<br /><b>Skills</b>:Unity,     C#,     Game Development,     Android,     Smartphone,     Augmented Reality,     Game Design    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Unity-Script-Developer_%7E016d740dba67d8038b?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 18:21:04 +0000</pubDate><guid>https://www.upwork.com/jobs/Unity-Script-Developer_%7E016d740dba67d8038b?source=rss</guid></item><item><title><![CDATA[Chrome extension that rewrites emails using chatgpt - Upwork]]></title><link>https://www.upwork.com/jobs/Chrome-extension-that-rewrites-emails-using-chatgpt_%7E01463c7d92032f3f26?source=rss</link><description><![CDATA[We&#039;re looking to get a chrome extention built that can be used to read emails you write and then rewrite them using chatgpt <br /><br />
+Similar to https://www.lavender.ai/ or Grammarly <br /><br />
+Please present how many hours it&#039;d take along with a complete budget and timeline.<br /><br />
+Thank you <br /><br /><b>Hourly Range</b>: $10.00-$32.00
+
+<br /><b>Posted On</b>: May 16, 2023 18:15 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:ChatGPT,     Google Chrome Extension,     API,     Gmail    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Chrome-extension-that-rewrites-emails-using-chatgpt_%7E01463c7d92032f3f26?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We&#039;re looking to get a chrome extention built that can be used to read emails you write and then rewrite them using chatgpt <br /><br />
+Similar to https://www.lavender.ai/ or Grammarly <br /><br />
+Please present how many hours it&#039;d take along with a complete budget and timeline.<br /><br />
+Thank you <br /><br /><b>Hourly Range</b>: $10.00-$32.00
+
+<br /><b>Posted On</b>: May 16, 2023 18:15 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:ChatGPT,     Google Chrome Extension,     API,     Gmail    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Chrome-extension-that-rewrites-emails-using-chatgpt_%7E01463c7d92032f3f26?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 18:15:57 +0000</pubDate><guid>https://www.upwork.com/jobs/Chrome-extension-that-rewrites-emails-using-chatgpt_%7E01463c7d92032f3f26?source=rss</guid></item><item><title><![CDATA[MS Publisher Visual Basic Programmer - Upwork]]></title><link>https://www.upwork.com/jobs/Publisher-Visual-Basic-Programmer_%7E01ffa59dd06cf31c99?source=rss</link><description><![CDATA[1. Introduction The objective of this project is to develop a macro for Microsoft Publisher that allows for automated data cleaning and adjustment for a catalog. The catalog has been previously created in Microsoft Publisher and contains images and text that have been imported using an Excel file. The macro should be able to:<br />
+2. Functional Requirements<br />
+&nbsp;&nbsp;&nbsp;&nbsp;1. Automatic removal of blank rows: After the catalog has been created, the macro should automatically remove all blank rows that have been caused by empty values, including rows that are empty only because of formatting.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;2. Automatic adjustment of image size: The macro should be able to automatically adjust the size of the images in the catalog based on a value specified in the Excel file. For example, if a value of &amp;quot;16mm&amp;quot; is specified in the Excel file, the image should be adjusted to a size of 16mm.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;3. Adjustment of the frame containing the text content. This should adapt variably to its content. In some cases, the content may be longer, in which case it should wrap to the next page.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;4. User-friendliness: The macro should be easy to use. It should have a clear user interface that allows the user to execute the macro with one click.<br />
+3. Non-Functional Requirements<br />
+&nbsp;&nbsp;&nbsp;&nbsp;1. Performance: The macro should work quickly and reliably. It should be able to clean and adjust large catalogs with many images and text within a few minutes.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;2. Scalability: The macro should be able to work with different versions of Microsoft Publisher and Excel. It should also be able to work with catalogs that have different formats and layouts.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;3. Maintainability: The macro should be easy to maintain. It should be programmed in such a way that it is easy to update if the requirements change or if errors occur.<br />
+4. Appendix<br />
+&nbsp;&nbsp;&nbsp;&nbsp;1. Sample Data: A sample dataset should be provided to help the developer test the macro. We provide a sample file from the Microsoft Publisher File, as well as a sample set of data in Microsoft Excel.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;2. User Manual: A user manual should be provided to explain to the user how to use the macro.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;3. Source Code: The source code of the macro should be provided to the customer so that they can modify or extend the macro if needed.<br /><br /><br /><b>Budget</b>: $500
+<br /><b>Posted On</b>: May 16, 2023 17:46 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Visual Basic,     Macro Programming,     C#    
+<br /><b>Country</b>: Germany
+<br /><a href="https://www.upwork.com/jobs/Publisher-Visual-Basic-Programmer_%7E01ffa59dd06cf31c99?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[1. Introduction The objective of this project is to develop a macro for Microsoft Publisher that allows for automated data cleaning and adjustment for a catalog. The catalog has been previously created in Microsoft Publisher and contains images and text that have been imported using an Excel file. The macro should be able to:<br />
+2. Functional Requirements<br />
+&nbsp;&nbsp;&nbsp;&nbsp;1. Automatic removal of blank rows: After the catalog has been created, the macro should automatically remove all blank rows that have been caused by empty values, including rows that are empty only because of formatting.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;2. Automatic adjustment of image size: The macro should be able to automatically adjust the size of the images in the catalog based on a value specified in the Excel file. For example, if a value of &amp;quot;16mm&amp;quot; is specified in the Excel file, the image should be adjusted to a size of 16mm.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;3. Adjustment of the frame containing the text content. This should adapt variably to its content. In some cases, the content may be longer, in which case it should wrap to the next page.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;4. User-friendliness: The macro should be easy to use. It should have a clear user interface that allows the user to execute the macro with one click.<br />
+3. Non-Functional Requirements<br />
+&nbsp;&nbsp;&nbsp;&nbsp;1. Performance: The macro should work quickly and reliably. It should be able to clean and adjust large catalogs with many images and text within a few minutes.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;2. Scalability: The macro should be able to work with different versions of Microsoft Publisher and Excel. It should also be able to work with catalogs that have different formats and layouts.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;3. Maintainability: The macro should be easy to maintain. It should be programmed in such a way that it is easy to update if the requirements change or if errors occur.<br />
+4. Appendix<br />
+&nbsp;&nbsp;&nbsp;&nbsp;1. Sample Data: A sample dataset should be provided to help the developer test the macro. We provide a sample file from the Microsoft Publisher File, as well as a sample set of data in Microsoft Excel.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;2. User Manual: A user manual should be provided to explain to the user how to use the macro.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;3. Source Code: The source code of the macro should be provided to the customer so that they can modify or extend the macro if needed.<br /><br /><br /><b>Budget</b>: $500
+<br /><b>Posted On</b>: May 16, 2023 17:46 UTC<br /><b>Category</b>: Scripting &amp; Automation<br /><b>Skills</b>:Visual Basic,     Macro Programming,     C#    
+<br /><b>Country</b>: Germany
+<br /><a href="https://www.upwork.com/jobs/Publisher-Visual-Basic-Programmer_%7E01ffa59dd06cf31c99?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Tue, 16 May 2023 17:46:49 +0000</pubDate><guid>https://www.upwork.com/jobs/Publisher-Visual-Basic-Programmer_%7E01ffa59dd06cf31c99?source=rss</guid></item></channel></rss>
